@@ -1,0 +1,13 @@
+.choices {
+    display: flex;
+    justify-content: space-between;
+}
+
+.options {
+    flex-basis: 33.3%;
+    margin: 0 2rem;
+    border: 1px dashed purple;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+}
